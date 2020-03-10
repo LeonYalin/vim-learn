@@ -1,2 +1,2 @@
-# vim-learn
-This project helps in learning VIM
+# docker-learn
+This project helps in learning Vim
