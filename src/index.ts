@@ -1,5 +1,5 @@
-import installations from "./installations";
+import usingMarkdown from "./installations";
 
 (function main() {
-  installations();
+  usingMarkdown();
 }());
